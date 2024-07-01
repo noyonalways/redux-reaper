@@ -13,4 +13,10 @@
 9. Handle todo list
 10. Refactor action types
 
+## References:
+
+- [useState](https://react.dev/reference/react/useState)
+- [useReducer](https://react.dev/reference/react/useReducer)
+- [useContext](https://react.dev/reference/react/useContext)
+
 ## Table of Contents:
