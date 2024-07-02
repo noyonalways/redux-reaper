@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Youtube][youtube-shield]][youtube-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Facebook Page][facebook-shield]][facebook-group-url]
@@ -6,11 +8,14 @@
 [![VS Code Theme][vscode-shield]][vscode-theme-url]
 [![NPM Package][npm-shield]][npm-package-url]
 
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
     <img src="https://i.ibb.co/c64q254/noyon-logo-dark.png" alt="Logo" width="80" height="80" />
+    <img src="https://i.postimg.cc/T29R55xL/pngwing-com-1.png" alt="Logo" width="90" height="90" />
     <h3 align="center">
         <a href="https://github.com/noyonalways/redux-reaper" target="_blank" >
             Be A  Redux Reaper
@@ -22,6 +27,7 @@
 
 - [Welcome to Frontend Track](./module-22/README.md)
 - [State Management in React](./module-23/README.md)
+- [Introduction to Redux](./module-24/README.md)
 
 ## Practice Task
 
