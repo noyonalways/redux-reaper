@@ -13,10 +13,9 @@
 9. RTK Query overview
 10. Module recap and homework.
 
-## References:
-
 ## Table of Contents:
 
+- [References:](#references)
 - [What is Redux](#what-is-redux)
   - [Predictable](#predictable)
   - [Centralize](#centralize)
@@ -24,6 +23,11 @@
   - [Flexible](#flexible)
 - [Inner workings of Redux](#inner-workings-of-redux)
   - [Terminology](#terminology)
+
+# References:
+
+- [Immerjs](https://immerjs.github.io/immer/)
+- [Currying Function](https://www.geeksforgeeks.org/what-is-currying-function-in-javascript/)
 
 # What is Redux
 

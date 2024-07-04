@@ -25,15 +25,16 @@
 
 ## Modules
 
-- [Welcome to Frontend Track](./module-22/README.md)
-- [State Management in React](./module-23/README.md)
-- [Introduction to Redux](./module-24/README.md)
+- [Module 22: Welcome to Frontend Track](./module-22/README.md)
+- [Module 23: State Management in React](./module-23/README.md)
+- [Module 24: Introduction to Redux](./module-24/README.md)
+- [Module 25: Hands-on with Redux Toolkit](./module-25/README.md)
 
 ## Practice Task
 
 ## Contact
 
-- Email: [noyonrahman2003@gmail.com](mailto:noyonrahman2003@gmail.com)
+- Email: [contact@noyonrahman.xyz](mailto:contact@noyonrahman.xyz)
 - LinkedIn: [Noyon Rahman](https://linkedin.com/in/noyonalways)
 
 <!-- MARKDOWN LINKS & IMAGES -->
