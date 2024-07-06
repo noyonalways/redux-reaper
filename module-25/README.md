@@ -20,3 +20,6 @@
 - [React](https://react.dev/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Shadcn](https://ui.shadcn.com/)
+- [RTK Query](https://redux-toolkit.js.org/tutorials/rtk-query)
+- [createApi](https://redux-toolkit.js.org/rtk-query/api/createApi)
+- [fetchBaseQuery](https://redux-toolkit.js.org/rtk-query/api/fetchBaseQuery)
