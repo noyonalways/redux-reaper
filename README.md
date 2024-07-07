@@ -29,6 +29,7 @@
 - [Module 23: State Management in React](./module-23/README.md)
 - [Module 24: Introduction to Redux](./module-24/README.md)
 - [Module 25: Hands-on with Redux Toolkit](./module-25/README.md)
+- [Module 26: Fundamentals of RTK Query](./module-26/README.md)
 
 ## Practice Task
 

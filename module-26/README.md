@@ -1,4 +1,4 @@
-<h1 align='center'></h1>
+<h1 align='center'>Fundamentals of RTK Query</h1>
 
 ## Topics
 
@@ -11,4 +11,8 @@
 
 ## Table of Contents:
 
-# References:
+# References
+
+- [default-cache-behavior](https://redux-toolkit.js.org/rtk-query/usage/cache-behavior#default-cache-behavior)
+- [tagtype](https://redux-toolkit.js.org/rtk-query/api/createApi#tagtypes)
+- [query-hook-options](https://redux-toolkit.js.org/rtk-query/usage/queries#query-hook-options)
