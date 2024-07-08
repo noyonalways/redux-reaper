@@ -31,6 +31,18 @@
 - [Module 25: Hands-on with Redux Toolkit](./module-25/README.md)
 - [Module 26: Fundamentals of RTK Query](./module-26/README.md)
 - [Module 27: Building PH University Management System Frontend Part-1](./module-27/README.md)
+- [Module 28: Building PH University Management System Frontend Part-2](./module-28/README.md)
+
+# References
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite.js](https://vitejs.dev/)
+- [React.js](https://react.dev/)
+- [React Router](https://reactrouter.com/en/main)
+- [Redux TypeScript Quick Start](https://redux-toolkit.js.org/tutorials/typescript)
+- [Ant Design](https://ant.design/)
+- [Ant Design Development with React](https://ant.design/docs/react/introduce)
+- [Ant Design Components](https://ant.design/components/overview/)
 
 ## Contact
 

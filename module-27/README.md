@@ -1,4 +1,4 @@
-<h1 align='center'>Module 27: Building PH University Management System Frontend Part-1</h1>
+<h1 align='center'>Building PH University Management System Frontend Part-1</h1>
 
 ## Topics
 
