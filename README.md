@@ -32,6 +32,7 @@
 - [Module 26: Fundamentals of RTK Query](./module-26/README.md)
 - [Module 27: Building PH University Management System Frontend Part-1](./module-27/README.md)
 - [Module 28: Building PH University Management System Frontend Part-2](./module-28/README.md)
+- [Module 28: Building PH University Management System Frontend Part-3](./module-29/README.md)
 
 # References
 

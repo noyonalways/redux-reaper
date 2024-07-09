@@ -1,16 +1,16 @@
-<h1 align='center'>Building PH University Management System Frontend Part-2</h1>
+<h1 align='center'>Building PH University Management System Frontend Part-3</h1>
 
 ## Topics
 
-1. Refactor routes with util function
-2. Render sidebar based on role
-3. Requirement Analysis for Authentication and backend setup
-4. Create authSlice and authApi layer by injecting in baseApi
-5. Basic Login form and `useLoginMutaion`
-6. (IMPORTANT) set cookies in the browser
-7. Decode token and set user in local state
-8. Integrate redux persist
-9. Serializable and non-serializable objects
-10. Protected Route, overview, and next steps
+1. Login redirect and logout
+2. Setting up get query and current issue with it
+3. Setting up baseQuery to send accessToken with each request
+4. Handle verify JWT error and setup a custom base query
+5. Retrieve new access token using refresh token
+6. Handle expired refresh token (kick out the user)
+7. Resolve TS error in baseApi and make a form wrapper
+8. Share form context using FormProvider
+9. React Hook Form controller for 3rd party input binding
+10. Handle form default values and resolve type errors
 
 ## Table of Contents:
