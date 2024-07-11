@@ -14,3 +14,10 @@
 10. Handle form default values and resolve type errors
 
 ## Table of Contents:
+
+# References
+
+- [BaseQuery Function Signature](https://redux-toolkit.js.org/rtk-query/api/createApi#basequery-function-signature)
+- [Prepare Headers](https://redux-toolkit.js.org/rtk-query/api/fetchBaseQuery#prepareheaders)
+- [Persistence and Rehydration](https://redux-toolkit.js.org/rtk-query/usage/persistence-and-rehydration)
+- [redux-persist](https://github.com/rt2zz/redux-persist)
