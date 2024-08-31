@@ -33,6 +33,7 @@
 - [Module 27: Building PH University Management System Frontend Part-1](./module-27/README.md)
 - [Module 28: Building PH University Management System Frontend Part-2](./module-28/README.md)
 - [Module 29: Building PH University Management System Frontend Part-3](./module-29/README.md)
+- [Module 30: Assignment-04](./module-30/README.md)
 
 # References
 
@@ -49,6 +50,7 @@
 
 - Email: [contact@noyonrahman.xyz](mailto:contact@noyonrahman.xyz)
 - LinkedIn: [Noyon Rahman](https://linkedin.com/in/noyonalways)
+- Portfolio: [noyonrahman.xyz](https://noyonrahman.xyz)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
