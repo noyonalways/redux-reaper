@@ -34,15 +34,22 @@
 - [Module 28: Building PH University Management System Frontend Part-2](./module-28/README.md)
 - [Module 29: Building PH University Management System Frontend Part-3](./module-29/README.md)
 - [Module 30: Assignment-04](./module-30/README.md)
+- [Module 31: Building PH University Management System Frontend Part-4](./module-31/README.md)
+- [Module 32: Building PH University Management System Frontend Part-5](./module-32/README.md)
 
 # References
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [Zod](https://zod.dev)
 - [Vite.js](https://vitejs.dev/)
+- [JSON Web Token](https://jwt.io/)
+- [JWT-Decode](https://www.npmjs.com/package/jwt-decode)
 - [React.js](https://react.dev/)
-- [React Router](https://reactrouter.com/en/main)
-- [Redux TypeScript Quick Start](https://redux-toolkit.js.org/tutorials/typescript)
 - [Ant Design](https://ant.design/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Hook Form](https://react-hook-form.com)
+- [React Router](https://reactrouter.com/en/main)
+- [Hook Form Resolvers](https://www.npmjs.com/package/@hookform/resolvers)
+- [Redux TypeScript Quick Start](https://redux-toolkit.js.org/tutorials/typescript)
 - [Ant Design Development with React](https://ant.design/docs/react/introduce)
 - [Ant Design Components](https://ant.design/components/overview/)
 
