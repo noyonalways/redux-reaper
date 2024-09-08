@@ -36,6 +36,9 @@
 - [Module 30: Assignment-04](./module-30/README.md)
 - [Module 31: Building PH University Management System Frontend Part-4](./module-31/README.md)
 - [Module 32: Building PH University Management System Frontend Part-5](./module-32/README.md)
+- [Module 33: Building PH University Management System Frontend Part-6](./module-33/README.md)
+- [Module 34: Building PH University Management System Frontend Part-7](./module-34/README.md)
+- [Module 35: Assignment-05](./module-35/README.md)
 
 # References
 
